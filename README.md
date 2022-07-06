@@ -6,7 +6,9 @@ These data were downloaded from <http://sweetpotato-garden.kazusa.or.jp/> via th
 wget ftp://ftp.kazusa.or.jp/pub/sweetpotato/GeneticMap/KDRIsweetpotatoXushu18S1LG2017.vcf.gz
 ```
 
-However, it appears that the above links are now dead. I am posting the data here since I use it in a few of my papers (Gerard et al, 2018; Gerard and Ferrão, 2019; Gerard, 2021).
+However, it appears that the above links are now dead. These data have moved to Google Drive: <https://drive.google.com/file/d/1KCRx99esRC2OgCIyOBa4y7PrnhWofNYt/view?usp=sharing>
+
+I am still posting the data here since I use it in a few of my papers (Gerard et al, 2018; Gerard and Ferrão, 2019; Gerard, 2021).
 
 # How to download
 
